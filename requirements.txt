@@ -1,0 +1,4 @@
+click==8.2.1
+wandb==0.21.1
+Jinja2==3.1.6
+PyYAML==6.0.2
