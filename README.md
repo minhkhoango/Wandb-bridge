@@ -15,7 +15,7 @@ Engineers must manually translate the experiment's configuration into complex an
 
 ## The Solution: A Seamless Bridge
 
-**WandbS Bridge** closes this gap.  
+**Wandb Bridge** closes this gap.  
 It's a simple CLI tool that inspects a completed W&B run and automatically generates the high-quality Kubernetes manifests needed to deploy it.
 
 It turns a manual, multi-hour process into a reliable, one-command action.
