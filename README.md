@@ -42,8 +42,8 @@ It turns a manual, multi-hour process into a reliable, one-command action.
 
 ### Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/wandb-k8s-codegen.git
-cd wandb-k8s-codegen
+git clone https://github.com/minhkhoango/Wandb-bridge.git
+cd Wandb-bridge
 pip install -r requirements.txt
 ```
 
