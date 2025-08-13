@@ -58,9 +58,9 @@ It turns a manual, multi-hour process into a reliable, one-command action.
     ```
 4.  **Deploy:**
     ```bash
-    # A new directory (e.g., "cool-experiment-1_k8s") will be created.
+    # A new directory (e.g., "cool-experiment-1_bridge") will be created.
     # Inspect the generated YAML files inside.
-    cd cool-experiment-1_k8s
+    cd cool-experiment-1_bridge
 
     # Assuming your kubectl is configured for CoreWeave
     kubectl apply -f .
