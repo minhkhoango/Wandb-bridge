@@ -23,7 +23,7 @@ Automating the experiment-to-production pipeline is a key differentiator for eli
 
 ## The Solution: A Seamless Bridge
 
-**Wandb Bridge** closes this gap.
+**Wandb Bridge** closes this gap.  
 It's a simple CLI tool that inspects a completed W&B run and automatically generates the high-quality Kubernetes manifests needed to deploy it.
 
 It turns a manual, multi-hour process into a reliable, one-command action.
@@ -47,7 +47,7 @@ It turns a manual, multi-hour process into a reliable, one-command action.
     * A logged-in W&B account (`wandb login`)
 2.  **Installation:**
     ```bash
-    git clone [https://github.com/minhkhoango/Wandb-bridge.git](https://github.com/minhkhoango/Wandb-bridge.git)
+    git clone https://github.com/minhkhoango/Wandb-bridge.git
     cd Wandb-bridge
     pip install -r requirements.txt
     ```
